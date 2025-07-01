@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# VSCode / PyCharm settings
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Python dependency files
+*.egg-info/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Docker
+*.env
